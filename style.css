@@ -28,6 +28,7 @@ li {
   -ms-transform: rotate(0.5turn);
   -o-transform: rotate(0.5turn);
   transform: rotate(0.5turn);
+  z-index: 11;
 }
 .small-circle {
   color: transparent;
@@ -38,7 +39,7 @@ li {
   position: absolute;
   top: 0vmin;
   left: 0vmin;
-  z-index: 10 !important;
+  z-index: 10;
   -webkit-transform-origin: center;
   -moz-transform-origin: center;
   -ms-transform-origin: center;
