@@ -32,7 +32,7 @@ li {
 }
 .small-circle {
   color: transparent;
-  border: 0.5px solid #EDE4F0;
+  border: 0.5px solid currentColor;
   width: 30vmin;
   height: 30vmin;
   border-radius: 50%;
