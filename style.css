@@ -31,7 +31,7 @@ li {
 }
 .small-circle {
   color: transparent;
-  border: 0.5px solid currentColor;
+  border: 0.5px solid #ff2887;
   width: 30vmin;
   height: 30vmin;
   border-radius: 50%;
